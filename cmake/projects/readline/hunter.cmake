@@ -21,6 +21,19 @@ hunter_add_version(
     017b92dc7fd4e636a2b5c9265a77ccc05798c9e1
 )
 
+hunter_add_version(
+    PACKAGE_NAME
+    readline
+    VERSION
+    "8.1"
+    URL
+    "https://fossies.org/linux/misc/readline-8.1.tar.gz"
+    SHA1
+    48c5e0c3a212449e206e21ba82856accac842c6f
+)
+
+
+
 hunter_configuration_types(readline CONFIGURATION_TYPES Release)
 hunter_pick_scheme(DEFAULT url_sha1_autotools)
 hunter_cmake_args(
