@@ -462,7 +462,7 @@ else()
 endif()
 
 hunter_default_version(re2 VERSION 2020.08.01)
-hunter_default_version(readline VERSION 6.3)
+hunter_default_version(readline VERSION 8.1)
 hunter_default_version(recastnavigation VERSION 1.4-p0)
 hunter_default_version(renderproto VERSION 0.11.1)
 hunter_default_version(rocksdb VERSION 6.20.3)
