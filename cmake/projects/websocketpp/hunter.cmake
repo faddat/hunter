@@ -55,7 +55,7 @@ hunter_add_version(
   VERSION
   "0.8.2"
   URL
-  "https://github.com/hunter-packages/websocketpp/archive/v0.8.2.tar.gz"
+  "https://github.com/zaphoyd/websocketpp/archive/refs/tags/0.8.2.tar.gz"
   SHA1
   350be6d2bd3f7d4c7c58d89933b8c6f9cc9861f8
   )
