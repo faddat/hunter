@@ -79,6 +79,7 @@ else()
         WITH_TESTS=OFF
         WITH_GFLAGS=OFF
         WITH_BENCHMARK_TOOLS=OFF
+        USE_RTTI=1
         WITH_CORE_TOOLS=OFF
         WITH_TOOLS=OFF
         PORTABLE=ON
