@@ -31,6 +31,16 @@ hunter_add_version(
     SHA1
     48c5e0c3a212449e206e21ba82856accac842c6f
 )
+hunter_add_version(
+    PACKAGE_NAME
+    readline
+    VERSION
+    "8.1.2"
+    URL
+    "https://fossies.org/linux/misc/readline-8.1.2.tar.gz"
+    SHA1
+    8A05AD0D0AD67E18C383F1B2CF6A23BCBD46F87A
+)
 
 
 
